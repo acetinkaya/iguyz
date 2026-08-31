@@ -1,4 +1,4 @@
-## “Makineler Düşünebilir mi ve Nasıl Düşünebilir? (Arf, 1959)” 
+## “Makine Düşünebilir mi ve Nasıl Düşünebilir? (Arf, 1959)” 
 
 ## Yapay Zeka (YZ) Kavramı // Concept of Artificial Intelligence (AI)
 
